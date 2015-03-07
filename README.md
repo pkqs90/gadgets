@@ -1,1 +1,3 @@
 # gadgets
+
+Just for fun.
