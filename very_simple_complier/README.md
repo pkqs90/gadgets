@@ -8,11 +8,11 @@ http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html
 
 # Instruction
 
-	python gao.py FILE
+`python gao.py FILE`
 
 对文件进行操作
 
-	python gao.py
+`python gao.py`
 
 可 interactively 操作
 
