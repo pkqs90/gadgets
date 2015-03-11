@@ -16,7 +16,7 @@ Yet to work on：
 Example
 -
 
-
+![](https://raw.githubusercontent.com/pkqs90/gadgets/master/mahjong/imgtest/test3.jpg)
 
 
 可以得到
