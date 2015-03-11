@@ -1,9 +1,10 @@
+#!/usr/bin/env python
 import copy
 
-# 1-9M = 0-8
-# 1-9S = 9-17
-# 1-9P = 18-26
-# DNXBZFB = 27-33
+# 1-9m = 0-8
+# 1-9p = 9-17
+# 1-9s = 18-26
+# 1-7Z = 27-33
 
 class ErrorException(Exception) :
     pass
