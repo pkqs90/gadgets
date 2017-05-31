@@ -3,8 +3,6 @@
 import sys
 import cv2
 import numpy as np
-from matplotlib import pyplot as plt
-
 
 class Solution :
     def findNumOfCards(self, pts) :
@@ -32,7 +30,7 @@ class Solution :
         # flag == 0 返回每张牌的匹配度
         # flag == 1 返回每张牌匹配了多少次
         originalImage = cv2.imread(originalName)
-        templateImage = cv2.imread('image\\' + templateName)
+        templateImage = cv2.imread('image/' + templateName)
 
         scale = originalImage.shape[0] / (float (templateImage.shape[0]))
         templateImage = cv2.resize(templateImage, None, fx = scale, fy = scale)
